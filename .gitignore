@@ -1,0 +1,8 @@
+build/
+.idea/
+test/
+core
+kernel
+kernel.asm
+kernel.ld
+LICENSE
