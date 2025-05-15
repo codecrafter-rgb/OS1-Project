@@ -30,7 +30,7 @@ Ensure a RISC-V GCC toolchain is installed.
 
 ## 📁 Project Structure
   - src/ – Kernel and subsystem source files
-  - include/ – Header files
+  - h/ – Header files
   - Makefile – Build configuration
 
 ## 🎯 Extensions
